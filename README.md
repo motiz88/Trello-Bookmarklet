@@ -4,7 +4,7 @@ javascript:(function(a){window.trelloAppKey="KEY";window.trelloIdList="LIST";win
 
 This is a <a href="http://en.wikipedia.org/wiki/Bookmarklet">bookmarklet</a> you can use to create a card in <a href="https://trello.com">Trello</a> from a Zoopla property details page (`https://www.zoopla.co.uk/to-rent/details/#######`).
 
-The code is completely tailored to my own personal flat search and the Trello board I'm using for it; I am not taking issue reports or PRs, sorry! Feel free to fork and make your own changes, or check if your use case is a good fit for @danlec's upstream repo at https://github.com/danlec/Trello-Bookmarklet.
+The code is a giant hack that's completely tailored to my own personal flat search and the Trello board I'm using for it; I am not taking issue reports or PRs, sorry! Feel free to fork and make your own changes, or check if your use case is a good fit for @danlec's upstream repo at https://github.com/danlec/Trello-Bookmarklet.
 
 The first time you run the bookmarklet, it will walk you through a simple setup:
 
