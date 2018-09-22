@@ -1,5 +1,5 @@
 ```javascript
-javascript:(function(a){window.trelloAppKey="KEY";window.trelloIdList="LIST";window.flatSearchCentre="London";var b=a.createElement("script");b.src="https://raw.github.com/motiz88/Trello-Bookmarklet/master/trello_bookmarklet.js";a.getElementsByTagName("head")[0].appendChild(b)})(document);
+javascript:(function(a){window.trelloAppKey="KEY";window.trelloIdList="LIST";window.flatSearchCentre="London";var b=a.createElement("script");b.src="https://rawgit.com/motiz88/Trello-Bookmarklet/master/trello_bookmarklet.js";a.getElementsByTagName("head")[0].appendChild(b)})(document);
 ```
 
 This is a <a href="http://en.wikipedia.org/wiki/Bookmarklet">bookmarklet</a> you can use to create a card in <a href="https://trello.com">Trello</a> from a Zoopla property details page (`https://www.zoopla.co.uk/to-rent/details/#######`).
